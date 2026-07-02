@@ -146,14 +146,7 @@ with s1.container():
         )
         s1.write("[Source code](https://github.com/AneeqAltaf-2121)")
 
-        s1.subheader("GradGPT")
-        s1.write(
-            "An AI assistant that helps GMU students discuss internship readiness and next steps "
-            "based on their academic profile."
-        )
-        s1.write(
-            "[HackFax2025](https://devpost.com/software/grad-gpt-53a1so?ref_content=my-projects-tab&ref_feature=my_projects)"
-        )
+        
 
 s1.divider()
 
