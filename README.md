@@ -4,7 +4,7 @@ A modern personal portfolio built with **Python** and **Streamlit** that showcas
 
 ## 🌐 Live Demo
 
-**Website:** https://aneeq-altaf-resume-website.streamlit.app/
+**Website:** [https://aneeq-altaf-resume-website.streamlit.app/](https://resume-website-aneeq.streamlit.app/)
 
 ## 🚀 Features
 
