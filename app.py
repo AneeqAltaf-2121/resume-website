@@ -268,7 +268,7 @@ with s1.container():
         """, unsafe_allow_html=True)
 
     with right_col5:
-        s1.image(ASSETS / "s3.PNG", use_container_width=True)
+        s1.image(ASSETS / "Gon x Killua.png", use_container_width=True)
 
 s1.divider()
 
